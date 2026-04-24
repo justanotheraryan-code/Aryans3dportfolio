@@ -87,20 +87,21 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>STRATEGY & ANALYTICS</h3>
+              <h4>Turning Data Into Decisions</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                I translate raw operational and financial data into sharp, actionable
+                insights — from funnel optimization and unit economics to scenario
+                modelling and investor behaviour analysis.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">Market Research</div>
+                <div className="what-tags">Funnel Optimization</div>
+                <div className="what-tags">Unit Economics</div>
+                <div className="what-tags">Forecasting</div>
+                <div className="what-tags">Power BI</div>
+                <div className="what-tags">Excel</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,21 +125,21 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h3>LEADERSHIP &amp; COMMS</h3>
+              <h4>From Ideas to Stakeholder Impact</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                I lead cross-functional initiatives, manage CXO relationships, and
+                present complex findings with clarity — from debate championships to
+                boardroom pitches, I thrive in high-stakes communication environments.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">Stakeholder Comms</div>
+                <div className="what-tags">Cross-functional Collaboration</div>
+                <div className="what-tags">Presentation &amp; Speech</div>
+                <div className="what-tags">Problem-Solving</div>
+                <div className="what-tags">Market Sizing</div>
+                <div className="what-tags">User Research</div>
               </div>
               <div className="what-arrow"></div>
             </div>

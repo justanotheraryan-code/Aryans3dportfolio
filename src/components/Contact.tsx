@@ -11,65 +11,57 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/akashrmalhotra/"
-                target="_blank"
-                rel="noreferrer"
+                href="mailto:aryan3374@gmail.com"
                 data-cursor="disable"
               >
-                LinkedIn — akashrmalhotra
+                aryan3374@gmail.com
+              </a>
+            </p>
+            <p>
+              <a
+                href="tel:+917042665021"
+                data-cursor="disable"
+              >
+                +91-7042665021
               </a>
             </p>
             <h4>Education</h4>
             <p>
-              PGPWE (MBA), Indian Institute of Management, Lucknow — 2021–2023
+              PGP — Technology &amp; Business Management, Masters' Union — 2025–Present
             </p>
             <p>
-              B.Tech Computer Science, Manav Rachna Educational Institutions —
-              2009–2013
+              BCom (Honours), NMIMS Anil Surendra Modi School of Commerce — 2021–2024
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/akashrmalhotra"
+              href="https://www.linkedin.com/in/notjustanotheraryan"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              GitHub <MdArrowOutward />
+              LinkedIn — notjustanotheraryan <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/akashrmalhotra/"
-              target="_blank"
-              rel="noreferrer"
+              href="mailto:ylc27aryan.sharma@mastersunion.org"
               data-cursor="disable"
               className="contact-social"
             >
-              LinkedIn <MdArrowOutward />
+              Email (MU) <MdArrowOutward />
             </a>
             <a
-              href="https://www.youtube.com/@Leftbraincoder"
-              target="_blank"
-              rel="noreferrer"
+              href="mailto:aryan3374@gmail.com"
               data-cursor="disable"
               className="contact-social"
             >
-              YouTube <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.instagram.com/leftbraincoder/"
-              target="_blank"
-              rel="noreferrer"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Instagram <MdArrowOutward />
+              Email (Personal) <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Akash Malhotra</span>
+              Portfolio of <br /> <span>Aryan Sharma</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

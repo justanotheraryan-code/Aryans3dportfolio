@@ -1,8 +1,8 @@
-# 3D Portfolio Website
+# Aryan Sharma — 3D Portfolio
 
-This repository contains the source code for a personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
+Personal portfolio of **Aryan Sharma** — Strategy & Analytics, Masters' Union PGP (YLC), Founder's Office Intern. Built with React, TypeScript, Three.js, React Three Fiber, and GSAP. Features animated page sections, a 3D character scene, custom cursor interactions, and smooth scroll-driven transitions.
 
-Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.app/)
+LinkedIn: [linkedin.com/in/notjustanotheraryan](https://www.linkedin.com/in/notjustanotheraryan)
 
 ![Portfolio Preview](public/images/preview1.png)
 
